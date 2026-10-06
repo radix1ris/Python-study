@@ -1,3 +1,4 @@
+#在庫管理アプリ
 import json
 def save_product(products):
     with open("products.json","w",encoding="utf-8")as file:
